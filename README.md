@@ -15,15 +15,19 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Contents
 - [Preamble](#preamble)
+- [SFW](#sfw)
+  - [General](#general)
+  - [Specific](#specific)
 - [NSFW](#nfsw)
     - [General](#general)
+    - [Specific](#specific)
     - [Doujins](#doujins)
     - [3DPD](#3dpd)
     - [Furry](#furry)
     - [Not booru](#not-booru)
     - [Torrents](#torrents)
     - [Misc](#misc)
-- [SFW](#sfw)
+
 - [Software](#software)
     - [Hosts](#hosts)
     - [Clients](#clients)
@@ -36,11 +40,33 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 **Warning: NSFW content**
 
+## SFW
+
+### General
+
+- [Safebooru](https://safebooru.org/)
+- [Danbooru safe](https://safebooru.donmai.us/)
+- [shuushuu](http://e-shuushuu.net/)
+- [Konachan](https://konachan.net/) - Konachans '.net' SFW version
+- [sakugabooru](https://www.sakugabooru.com/) - For animation frames
+- [e926](https://e926.net) - Furry, e621s 'SFW' version (as SFW as furry can be)
+- [Zerochan](https://www.zerochan.net/) - Zerochans SFW 2D
+- [Asiachan KPOP](https://kpop.asiachan.com/) - For K-Pop idols
+- [Minitokyo](http://www.minitokyo.net/) - Zerochans SFW 2D wallpapers
+- [wallhaven](https://wallhaven.cc/) - Wallpapers, booru-like, some NSFW but mostly SFW
+- [Taskforce M.O.E.](http://taskforce.moe/) - inactive?
+
+### Specific
+
+- [Vinebooru](https://booru.vineshroom.net/) - for vinesauce
+- One Yukkuri Place [yukkuri](http://yukkuri.shii.org/) - [Yukkuri Shiteitte ne!](https://knowyourmeme.com/memes/yukkuri-shiteitte-ne)
+- [Oceanfalls Booru](https://fanart.oceanfalls.net/)
+- [Caliburbooru](https://cascards.fluffyquack.com) - for soul calibur
+
 ## NSFW
 
 ### General
 
-- [Sankaku Channel](https://chan.sankakucomplex.com/)
 - Donmai
     - [Danbooru](https://danbooru.donmai.us/)
     - [Sonohara](https://sonohara.donmai.us/)
@@ -48,65 +74,44 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Gelbooru](https://gelbooru.com/)
 - [Konachan](https://konachan.com/)
 - [rule34](https://rule34.xxx/)
-- [Lolibaka](https://www.lolibaka.com)
+- [Sankaku Channel](https://chan.sankakucomplex.com/) - (adblock use recommended)
 - [TBIB](https://tbib.org/) - The Big ImageBooru
 - [Xbooru](https://xbooru.com/)
-- [/tg/booru](https://grognard.booru.org/index.php)
-- [Paheal](http://paheal.net/)
-- [Draw Friends](https://drawfriends.booru.org/)
-- [The /co/llection](https://the-collection.booru.org/)
-- [IIchan](https://ii.booru.org/)
-- [yande.re](https://yande.re/post)
+- [Paheal](http://paheal.net/) - rule34 searchable archive
+- [Draw Friends](https://drawfriends.booru.org/) (art primarily from drawthreads on 4chan's /a/)
+- [The /co/llection](https://the-collection.booru.org/) (comics and cartoons)
+- [yande.re](https://yande.re/post) 
 - [anime-pictures](https://anime-pictures.net/)
-- [Hypnohub](https://hypnohub.net/)
-- [ATFBooru](https://booru.allthefallen.moe/)
 - [rule34hentai](https://rule34hentai.net/)
 - [The Hentai World](https://thehentaiworld.com/)
-- [Giantess Booru](https://giantessbooru.com/)
-- [Fancy Boory](http://dorkbooru.com/)
-- [verminbooru](https://booru.myverm.in/)
-- [evbooru](https://evbooru.com/)
-- [lolibooru](https://lolibooru.moe/)
-- [megabooru](https://www.megabooru.com/)
-- [hard55](http://www.hard55.com/)
-- [analbooru](http://www.analbooru.com/)
-- [zombooru](http://www.zombooru.com/)
 - [/f/lockdraw](https://www.skycow.us/shimmie/)
-- [MilBooru](http://sheslostcontrol.net/moe/shimmie/)
-- [CDRR board](http://zumki.ru/)
-- [Kusubooru](https://kusubooru.com/)
-- [FANSERVICE.FAN](https://fanservice.fan/)
-- [Rule34 Yaoi](http://rule34yaoi.com/)
+
+### Specific
+
+- [Hypnohub](https://hypnohub.net/)
+- [Giantess Booru](https://sizechangebooru.com)
 - [Tentacle rape](https://tentaclerape.net)
-- [WH40kart](https://wh40kart.im/)
-- [4chan House Shimmie](http://shimmie.4chanhouse.org/index.php?q=/post/list)
 - [Foot-Fetish-Booru](https://footfetishbooru.booru.org/)
-- [Scatbooru](https://scatbooru.co.uk/)
+- [ATFBooru](https://booru.allthefallen.moe/) (loli/shota)
 
 ### Doujins
 
 - [nhentai](https://nhentai.net/)
 - [E-hentai](https://e-hentai.org/)
 - [Luscious](https://www.luscious.net/)
-- [HBrowse](https://www.hbrowse.com/)
-
+  
 ## 3DPD
 
 - [realbooru](https://realbooru.com/) - Former 3DPD content from rule34 was moved here
-- [hentai-cosplay](https://hentai-cosplay.com/)
 - [Idol Complex](https://idol.sankakucomplex.com/) - Sankaku's second booru for 3DPD
 - [3dbooru](http://behoimi.org/)
 
 ### Furry
 
 - [e621](https://e621.net/)
-- [PoniBooru](https://pbooru.com/)
 - [Derpibooru](https://derpibooru.org/)
 - [Furaffinity](https://www.furaffinity.net/)
-- [boorufurry](http://www.boorufurry.com/)
 - [burrowowl](http://gallery.burrowowl.net/)
-- [Dante's Archive](https://cow.zone/shimmie2/)
-- [FurryBooru](https://furry.booru.org/)
 - [Wildcritters](https://wildcritters.ws/)
 
 ### Not booru
@@ -128,44 +133,15 @@ Mostly "art galleries" and booru-ish.
 ### Misc
 
 - [booru.org](https://booru.org/) - Create your own booru. Hosts thousands of boorus. See also: [top booru boorus](https://booru.org/top).
-- [NanoChan](http://nanochan.org/) - About to be resurrected from the dead
-- [Pepe](https://pepe.booru.org) - Rare pepes
 - [vndb](https://vndb.org/) - visual novel database
-- [Beanbeeroo](http://miya.nipah.moe/) - memes
-- [CJ's Shimmie](https://cjdavies.org/shimmie/)
 
-## SFW
 
-- [Safebooru](https://safebooru.org/)
-- [Danbooru safe](https://safebooru.donmai.us/)
-- [shuushuu](http://e-shuushuu.net/)
-- [Fanservice FTW](http://gallery.fanserviceftw.com/)
-- [Shishnet](http://shimmie.shishnet.org/v2/) - Shimmie Testbed
-- [Bronibooru](http://www.bronibooru.com/)
-- [MSPA Booru](http://mspabooru.com/) - Formerly Ib.Skaia.net
-- [Konachan](https://konachan.net/) - Konachans '.net' SFW version
-- [sakugabooru](https://www.sakugabooru.com/)
-- [Vinebooru](https://booru.vineshroom.net/)
-- [e926](https://e926.net) - e621s 'SFW' version (as SFW as furry can be)
-- One Yukkuri Place [yukkuri](http://yukkuri.shii.org/) / [yunyah](http://oyp.yunyah.com/)
-- [Zerochan](https://www.zerochan.net/) - Zerochans SFW 2D
-- [Asiachan KPOP](https://kpop.asiachan.com/) - Zerochans SFW 3DPD
-- [Minitokyo](http://www.minitokyo.net/) - Zerochans SFW 2D wallpapers
-- [Karabako](http://www.karabako.net/)
-- [genboard](https://img.genshiken-itb.org)
-- [Oceanfalls Booru](https://fanart.oceanfalls.net/)
-- [Caliburbooru](https://cascards.fluffyquack.com)
-- [Taskforce M.O.E.](http://taskforce.moe/)
-- [RoA.Booru](http://www.booru.realmofastra.ca/)
-- [Creativity Weekly Database](https://creativity.xenonlabs.eu/post/list/1)
-- [wallhaven](https://wallhaven.cc/) - Wallpapers, booru-like, some NSFW but mostly SFW
 
 ## Software
 
 ### Hosts
 
 - [moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified 
-- [moeverdose](https://github.com/eternialz/moeverdose) - An image board made with RoR6 and PostgreSQL
 - [Boorunaut](https://github.com/Boorunaut/Boorunaut) - A taggable imagebord built in Django. Based on Danbooru.
 - [omnibooru](https://github.com/kxz/omnibooru) - Room 208 fork of Danbooru 2, the taggable image board.
 
@@ -186,6 +162,12 @@ Mostly "art galleries" and booru-ish.
 - [kaori](https://github.com/iCrawl/kaori) - Your friendly neighbourhood violinist bringing you the best booru images 
 - [GelbooruEnhancement](https://github.com/friendlyanon/GelbooruEnhancement) -  Image Viewer and Endless Scroll userscripts for Gelbooru and various other boorus
 
+## Online, but not active
+
+- [/tg/booru](https://grognard.booru.org/index.php)
+- [CDRR board](http://zumki.ru/)
+- [FANSERVICE.FAN](https://fanservice.fan/)
+
 ## RIP in pepperoni
 
 ### Dead boorus
@@ -202,13 +184,52 @@ Mostly "art galleries" and booru-ish.
 - [dollbooru](https://dollbooru.org/) - Error 1016
 - [Mishimmie](http://shimmie.katawa-shoujo.com/) - Dead Katawa-shoujo booru
 - [20% Cooler](http://twentypercentcooler.net) - Dead pony booru
-- [youhate.us](http://youhate.us) 
+- [youhate.us](http://youhate.us)
+- [IIchan](https://ii.booru.org/)
+- [Fanservice FTW](http://gallery.fanserviceftw.com/)
+- [Shishnet](http://shimmie.shishnet.org/v2/) - Shimmie Testbed
+- [Bronibooru](http://www.bronibooru.com/) - Archive available
+- [MSPA Booru](http://mspabooru.com/) - Formerly Ib.Skaia.net; Homestuck board
+- [yunyah](http://oyp.yunyah.com/)
+- [Karabako](http://www.karabako.net/)
+- [genboard](https://img.genshiken-itb.org)
+- [RoA.Booru](http://www.booru.realmofastra.ca/)
+- [Creativity Weekly Database](https://creativity.xenonlabs.eu/post/list/1)
+- [Fancy Boory](http://dorkbooru.com/)
+- [verminbooru](https://booru.myverm.in/)
+- [evbooru](https://evbooru.com/)
+- [megabooru](https://www.megabooru.com/)
+- [lolibooru](https://lolibooru.moe/)
+- [hard55](http://www.hard55.com/)
+- [analbooru](http://www.analbooru.com/)
+- [zombooru](http://www.zombooru.com/)
+- [MilBooru](http://sheslostcontrol.net/moe/shimmie/)
+- [Kusubooru](https://kusubooru.com/)
+- [Rule34 Yaoi](http://rule34yaoi.com/)
+- [WH40kart](https://wh40kart.im/)
+- [4chan House Shimmie](http://shimmie.4chanhouse.org/index.php?q=/post/list)
+- [Scatbooru](https://scatbooru.co.uk/)
+- [hentai-cosplay](https://hentai-cosplay.com/)
+- [PoniBooru](https://pbooru.com/)
+- [boorufurry](http://www.boorufurry.com/)
+- [FurryBooru](https://furry.booru.org/)
+- [Dante's Archive](https://cow.zone/shimmie2/)
+- [NanoChan](http://nanochan.org/) - About to be resurrected from the dead(?)
+- [Pepe](https://pepe.booru.org) - Rare pepes
+- [Beanbeeroo](http://miya.nipah.moe/) - memes
+- [CJ's Shimmie](https://cjdavies.org/shimmie/)
+- [Lolibaka](https://www.lolibaka.com)
 
 ### Dead doujinshi
 
 - [TheDoujin](http://thedoujin.com/)
+- [HBrowse](https://www.hbrowse.com/)
+
 
 ### Dead software
 
 - [moebooru-android](https://github.com/onlymash/moebooru-android) - Moebooru client for Android. Replaced by flexbooru.
+- [moeverdose](https://github.com/eternialz/moeverdose) - An image board made with RoR6 and PostgreSQL
+
+
 
