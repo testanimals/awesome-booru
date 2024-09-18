@@ -4,9 +4,10 @@
 
 ## Want to contribute?
 
-Pull requests are welcome.
+Pull requests are welcome
+Last updated: 18/09/2024
 
-This is not a dead list just because it's been a couple of months.
+This is just a list collection of active boards, I do not support some of the content of some boorus.
 
 See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 
