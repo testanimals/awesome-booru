@@ -5,7 +5,9 @@
 ## Want to contribute?
 
 Pull requests are welcome
+
 Last updated: 18/09/2024
+
 
 This is just a list collection of active boards, I do not support some of the content of some boorus.
 
