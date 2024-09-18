@@ -7,17 +7,17 @@
 Pull requests are welcome
 
 Last updated: 18/09/2024
-
-
-This is just a list collection of active boards, I do not support some of the content of some boorus.
+ - updated links, added descriptions, changed order of contents
 
 See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Contents
 - [Preamble](#preamble)
 - [SFW](#sfw)
+  - [General](#general)
   - [Specific](#specific)
 - [NSFW](#nsfw)
+    - [General](#general)
     - [Specific](#specific)
     - [Doujins](#doujins)
     - [3DPD](#3dpd)
@@ -38,28 +38,30 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 **Warning: NSFW content**
 
+This is just a collection list of active boards, I do not support some of the content of the boorus listed below.
+
 ## SFW
 
 ### General
 
-- [Safebooru](https://safebooru.org/)
+- [Safebooru](https://safebooru.org/) 
 - [Danbooru safe](https://safebooru.donmai.us/)
 - [shuushuu](http://e-shuushuu.net/)
 - [Konachan](https://konachan.net/) - Konachans '.net' SFW version
-- [sakugabooru](https://www.sakugabooru.com/) - For animation frames
+- [sakugabooru](https://www.sakugabooru.com/) - Animation frames
 - [e926](https://e926.net) - Furry, e621s 'SFW' version (as SFW as furry can be)
 - [Zerochan](https://www.zerochan.net/) - Zerochans SFW 2D
-- [Asiachan KPOP](https://kpop.asiachan.com/) - For K-Pop idols
+- [Asiachan KPOP](https://kpop.asiachan.com/) - K-Pop idols
 - [Minitokyo](http://www.minitokyo.net/) - Zerochans SFW 2D wallpapers
 - [wallhaven](https://wallhaven.cc/) - Wallpapers, booru-like, some NSFW but mostly SFW
 - [Taskforce M.O.E.](http://taskforce.moe/) - inactive?
 
 ### Specific
 
-- [Vinebooru](https://booru.vineshroom.net/) - for vinesauce
+- [Vinebooru](https://booru.vineshroom.net/) - Vinesauce
 - One Yukkuri Place [yukkuri](http://yukkuri.shii.org/) - [Yukkuri Shiteitte ne!](https://knowyourmeme.com/memes/yukkuri-shiteitte-ne)
 - [Oceanfalls Booru](https://fanart.oceanfalls.net/)
-- [Caliburbooru](https://cascards.fluffyquack.com) - for soul calibur
+- [Caliburbooru](https://cascards.fluffyquack.com) - Soul Calibur
 
 ## NSFW
 
@@ -82,7 +84,7 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [anime-pictures](https://anime-pictures.net/)
 - [rule34hentai](https://rule34hentai.net/)
 - [The Hentai World](https://thehentaiworld.com/)
-- [/f/lockdraw](https://www.skycow.us/shimmie/)
+- [/f/lockdraw](https://www.skycow.us/shimmie/) - images flockdraw (online drawing tool) board
 
 ### Specific
 
@@ -107,7 +109,7 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 ### Furry
 
 - [e621](https://e621.net/)
-- [Derpibooru](https://derpibooru.org/)
+- [Derpibooru](https://derpibooru.org/) - mlp
 - [Furaffinity](https://www.furaffinity.net/)
 - [burrowowl](http://gallery.burrowowl.net/)
 - [Wildcritters](https://wildcritters.ws/)
@@ -166,7 +168,7 @@ Mostly "art galleries" and booru-ish.
 - [CDRR board](http://zumki.ru/)
 - [FANSERVICE.FAN](https://fanservice.fan/)
 
-## RIP in pepperoni
+## RIP 
 
 ### Dead boorus
 
